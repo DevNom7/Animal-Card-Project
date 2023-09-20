@@ -13,7 +13,7 @@ There are no specific installation steps required for this project.
 You can view the project by opening the `index.html` file in a web browser.
 
 ## License
-This project is licensed under the [Your License Name](LICENSE).
+Nom 💯
 
 ## Contact
-If you have any questions or feedback, feel free to contact me at [N1L4792@gmail.com](mailto:N1L4792@gmail.com).
+If you have any questions or feedback, feel free to contact me at [N1L4792@gmail.com]
